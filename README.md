@@ -54,3 +54,5 @@ legacy/NominaV1.java  versión inicial procedural (solo evidencia de refactoriza
 | Fondo de ahorro (2 %) | Aporte de la empresa: aparece en el recibo, **no** modifica el neto. |
 | "Más de N años" | Estrictamente mayor: con exactamente 5 años no hay bono. |
 | 40 horas | Umbral por periodo de liquidación (mensual en este modelo). |
+
+<!-- Actualizado por Gabriel Sanchez - CIPA -->
